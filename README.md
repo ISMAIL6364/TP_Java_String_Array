@@ -6,6 +6,9 @@ Subject: Java Practical Work (Strings, Arrays)
 
 ## Contents
 Verb conjugation 
+
 Letter occurrences 
+
 String operations
+
 Student grades management
