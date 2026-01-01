@@ -23,7 +23,7 @@ loops to compute the average, and comparisons to find the minimum and maximum va
 ### Program Execution
 Below is an example of the program execution:
 
-![Exercise 1 Execution](images/ex1.png)
+![Exercise 1 Execution](images/ex1.png.jpeg)
 
 ---
 
@@ -39,7 +39,7 @@ present tense endings for each personal pronoun.
 
 ### Program Execution
 
-![Exercise 2 Execution](images/ex2.png)
+![Exercise 2 Execution](images/ex2.png.jpeg)
 
 ---
 
@@ -58,7 +58,7 @@ to perform each operation.
 
 ### Program Execution
 
-![Exercise 3 Execution](images/ex3.png)
+![Exercise 3 Execution](images/ex3.png.jpeg)
 
 ---
 
@@ -74,5 +74,5 @@ is converted to uppercase to simplify counting.
 
 ### Program Execution
 
-![Exercise 4 Execution](images/ex4.png)
+![Exercise 4 Execution](images/ex4.png.jpeg)
 
